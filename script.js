@@ -5,5 +5,4 @@ function startGame(){
 document.getElementById("play-button").addEventListener("click", startGame);
 document.getElementById("game-container").style.display="none";
 
-
     
